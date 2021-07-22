@@ -1,2 +1,3 @@
-ech0 "hello world"
+echo "hello world"
+
 
